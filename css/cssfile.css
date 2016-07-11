@@ -1,0 +1,48 @@
+.logo {
+    background-color: #d0e4fe;
+    text-align: left;
+}
+
+.nav-item {
+    float: left;
+    margin-left: 9%;
+    margin-right: 9%;
+    
+}
+.navigation {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-style: solid;
+    float: left;
+    width: 100%;
+}
+.blog {
+    width: 66%;
+    float: left;
+    border: black;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.reklama{
+    width: 30%;
+    float: left;
+}
+.adminka{
+    margin-left: 40%;
+    width: 260px;
+}
+.input-fields{
+    float: right;
+}
+
+.input-label {
+    float: left;
+    clear: both;
+}
+.submit {
+    float: left;
+}
+.adminpanel{
+    margin-left: 10%;
+    width: 200px;
+}
